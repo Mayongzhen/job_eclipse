@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: testproject
+Implementation-Version: test
+Built-By: mayongzhen01
+Implementation-Vendor-Id: wz
+Build-Jdk: 1.8.0_141
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/testproject
+Created-By: Maven Integration for Eclipse
+Main-Class: com.ixinnuo.financial.Application
+
